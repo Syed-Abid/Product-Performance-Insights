@@ -48,7 +48,7 @@ I welcome contributions and feedback. If you have ideas for improving the analys
 
 Stay updated with my data analysis journey and connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
 - [Twitter](https://twitter.com/yourhandle)
 - [Blog](https://yourblog.com)
 
