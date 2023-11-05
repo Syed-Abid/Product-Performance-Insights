@@ -49,7 +49,7 @@ I welcome contributions and feedback. If you have ideas for improving the analys
 Stay updated with my data analysis journey and connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
-- [Twitter](https://twitter.com/yourhandle)
+- [Twitter](https://twitter.com/SyedAbi70523793)
 - [Blog](https://yourblog.com)
 
 Thank you for joining me on this data adventure. Let's uncover the insights hidden in the numbers and make data-driven decisions together!
