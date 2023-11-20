@@ -50,7 +50,7 @@ Stay updated with my data analysis journey and connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/syed-abid-hassan-bb569b1b8/)
 - [Twitter](https://twitter.com/SyedAbi70523793)
-- [Blog](https://yourblog.com)
+- [Email](abidhassanjaffri31@gmail.com)
 
 Thank you for joining me on this data adventure. Let's uncover the insights hidden in the numbers and make data-driven decisions together!
 
