@@ -37,7 +37,7 @@ Here's an overview of the repository's structure:
 </div>
 
 <div align="center">
-  <img src="https://github.com/Syed-Abid/CodeBasics-Data-Analysis-Challenges/blob/main/Challenge%201/CodeX%20Improvement%20Driven%20Dashboard.png" alt="Improvement Driven Dashboard">
+  <img src="https://github.com/Syed-Abid/CodeBasics-Data-Analysis-Challenges/blob/main/Challenge%201/CodeX%20Dashboard.png" alt="CodeX Dashboard">
 </div>
 
 ## Presentation Highlights
