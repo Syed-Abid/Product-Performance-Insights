@@ -36,6 +36,10 @@ Here's an overview of the repository's structure:
   <img src="https://github.com/Syed-Abid/CodeBasics-Data-Analysis-Challenges/blob/main/Challenge%201/CodeX%20Improvement%20Driven%20Dashboard.png" alt="Improvement Driven Dashboard">
 </div>
 
+<div align="center">
+  <img src="https://github.com/Syed-Abid/CodeBasics-Data-Analysis-Challenges/blob/main/Challenge%201/CodeX%20Improvement%20Driven%20Dashboard.png" alt="Improvement Driven Dashboard">
+</div>
+
 ## Presentation Highlights
 
 I firmly believe in the importance of not only analyzing data but also effectively communicating the results. To that end, I've created compelling presentations for each challenge. Check out the 'presentations' folder to see how I transform data into insights.
