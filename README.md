@@ -30,9 +30,9 @@ company named **"CodeX"** and have identified their lacking areas and recommende
 ## Tools Used
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="image1.png" style="margin-right: 10px;" width="100" />
-  <img src="image2.png" style="margin-right: 10px;" width="100" />
-  <img src="image3.png" width="100" />
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/power%20bi.png" style="margin-right: 10px;" width="100" />
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/excel.png" width="100" />
 </div>
 
 ## Project Structure
