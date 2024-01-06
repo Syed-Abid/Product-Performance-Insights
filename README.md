@@ -27,6 +27,15 @@ company named **"CodeX"** and have identified their lacking areas and recommende
 - [LinkedIn Post 1](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_powerbi-powerbidashboard-dataanalysis-activity-7138530561119113216-5xm4?utm_source=share&utm_medium=member_desktop)
 - [LinkedIn Post 2](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_powerbi-dashboard-salesperformance-activity-7139154078638546944-9xry?utm_source=share&utm_medium=member_desktop)
 
+## Tools Used
+
+<p float="left">
+  <img src="image1.png" width="100" />
+  <img src="image2.png" width="100" />
+  <img src="image3.png" width="100" />
+</p>
+
+
 ## Project Structure
 
 Here's an overview of the repository's structure:
