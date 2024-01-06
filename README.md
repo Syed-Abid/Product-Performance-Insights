@@ -19,7 +19,13 @@ As a passionate and dedicated data analyst, I believe in the power of data to un
 
 ## Challenges Overview
 
-In this repository, you'll find a collection of challenges I've taken on from Codebasics. These challenges have allowed me to explore and conquer various aspects of data analysis. Each challenge reflects my dedication to mastering the art of extracting valuable insights from data.
+In this repository, you'll find a collection of challenges I've taken on from Codebasics. These challenges have allowed me to explore and conquer various aspects of data analysis. The challenge reflects my dedication to mastering the art of extracting valuable insights from data. In this challenge I have analyzed the sales performance of a fictional German beverage 
+company named **"CodeX"** and have identified their lacking areas and recommended solutions against them.
+
+##LinkedIn Posts
+
+- [LinkedIn Post 1](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_powerbi-powerbidashboard-dataanalysis-activity-7138530561119113216-5xm4?utm_source=share&utm_medium=member_desktop)
+- [LinkedIn Post 2](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_powerbi-dashboard-salesperformance-activity-7139154078638546944-9xry?utm_source=share&utm_medium=member_desktop)
 
 ## Project Structure
 
