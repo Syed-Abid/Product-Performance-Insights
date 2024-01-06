@@ -35,6 +35,12 @@ company named **"CodeX"** and have identified their lacking areas and recommende
   <img src="image3.png" width="100" />
 </p>
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="image1.png" style="margin-right: 10px;" width="100" />
+  <img src="image2.png" style="margin-right: 10px;" width="100" />
+  <img src="image3.png" width="100" />
+</div>
+
 
 ## Project Structure
 
