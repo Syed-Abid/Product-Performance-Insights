@@ -35,15 +35,6 @@ company named **"CodeX"** and have identified their lacking areas and recommende
 -  **60.1%** of the Brand Perception of it among people is **Neutral**, which means that there is a huge market which is still untouched.
 -  Most people consume it 2-3 times a week. This point should be used as a target in ads to increase the consumption frequency.
 
-## Project Structure
-
-Here's an overview of the repository's structure:
-
-- `challenges/`: Contains the code and data files for each challenge.
-- `presentations/`: Includes well-crafted presentations highlighting key findings and methodologies.
-- `scripts/`: Handy scripts and utilities used during the analysis.
-- `datasets/`: If the data is too large for GitHub, I've provided download links or instructions.
-
 ## Dashboards
 
 <div align="center">
@@ -53,10 +44,6 @@ Here's an overview of the repository's structure:
 <div align="center">
   <img src="https://github.com/Syed-Abid/CodeBasics-Data-Analysis-Challenges/blob/main/Challenge%201/CodeX%20Dashboard.png" alt="CodeX Dashboard">
 </div>
-
-## Presentation Highlights
-
-I firmly believe in the importance of not only analyzing data but also effectively communicating the results. To that end, I've created compelling presentations for each challenge. Check out the 'presentations' folder to see how I transform data into insights.
 
 ## Getting Started
 
