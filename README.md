@@ -8,15 +8,6 @@ Welcome to my world of data analysis! Here, I've documented my journey through a
 
 As a passionate and dedicated data analyst, I believe in the power of data to unveil insights and drive informed decisions. This repository serves as a testament to my commitment to the craft, showcasing my skills and sharing my experience with fellow data enthusiasts.
 
-## Table of Contents
-
-- [Challenges Overview](#challenges-overview)
-- [Project Structure](#project-structure)
-- [Presentation Highlights](#presentation-highlights)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Connect with Me](#connect-with-me)
-
 ## Challenges Overview
 
 In this repository, you'll find a collection of challenges I've taken on from Codebasics. These challenges have allowed me to explore and conquer various aspects of data analysis. The challenge reflects my dedication to mastering the art of extracting valuable insights from data. In this challenge I have analyzed the sales performance of a fictional German beverage 
