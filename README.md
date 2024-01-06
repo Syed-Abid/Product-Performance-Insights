@@ -18,7 +18,7 @@ company named **"CodeX"** and have identified their lacking areas and recommende
 - [LinkedIn Post 1](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_powerbi-powerbidashboard-dataanalysis-activity-7138530561119113216-5xm4?utm_source=share&utm_medium=member_desktop)
 - [LinkedIn Post 2](https://www.linkedin.com/posts/syed-abid-hassan-bb569b1b8_powerbi-dashboard-salesperformance-activity-7139154078638546944-9xry?utm_source=share&utm_medium=member_desktop)
 
-## Tools Used
+## 🧰 Tools Used
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/sql%20server.png" style="margin-right: 10px;" width="100" />
@@ -26,13 +26,13 @@ company named **"CodeX"** and have identified their lacking areas and recommende
   <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/excel.png" width="100" />
 </div>
 
-## Insights
--  Most customers like their "Compact and Portable Cans" packaging. So, this should be their priority when it comes to packaging.
+## 💡 Insights
+-  Most customers like their **Compact and Portable Cans** packaging. So, this should be their priority when it comes to packaging.
 -  Most customers desire that Codex should reduce their sugary content. Hence, this problem should be considered to increase the sales.
--  Most customers are unable to try it because it is unavailable in local shops. So, CodeX should find a supplier for the local market.
--  Most people use CodeX to stay awake while work or study session. It means these student and working professional should be the main target of their advertising campaigns.
+-  Most customers are unable to try it because it is **unavailable in local shops**. So, CodeX should find a supplier for the local market.
+-  Most people use CodeX to **stay awake while work or study session**. It means these student and working professional should be the main target of their advertising campaigns.
 -  Most people consume to to increase their focus while work. So, it should be the main benefit in their ads.
--  60.1% of the Brand Perception of it among people is Neutral, which means that there is a huge market which is still untouched.
+-  **60.1%** of the Brand Perception of it among people is **Neutral**, which means that there is a huge market which is still untouched.
 -  Most people consume it 2-3 times a week. This point should be used as a target in ads to increase the consumption frequency.
 
 ## Project Structure
