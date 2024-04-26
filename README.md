@@ -1,7 +1,7 @@
 # Product Performance Insights
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C4E16AQF9fFMEgQHK6w/profile-displaybackgroundimage-shrink_200_800/0/1659114806516?e=2147483647&v=beta&t=5WUUIG1nA-9bMP-KRcYEnkBRE8nPchtQEjXcdMP-EgI" alt="Data Analysis Picture">
+  <img src="https://github.com/Syed-Abid/Product-Performance-Insights/blob/main/Product.png" alt="Data Analysis Picture">
 </div>
 
 Welcome to my world of data analysis! Here, I've documented my journey through a series of challenges provided by Codebasics. 🚀
